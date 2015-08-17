@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tonight</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    
+    <string name="status_available">在线</string>
+    <string name="status_away">离开</string>
+    <string name="status_chat">Q我吧</string>
+    <string name="status_dnd">请勿打扰</string>
+    <string name="status_xa">隐身</string>
+    <string name="status_offline">离线</string>
+    <string name="status_busy">忙碌</string>
+    <string name="status_online">在线</string>
+    <string name="hide_login">隐身登录</string>
+    <string name="request_failed">登录失败:</string>
+     <string name="aio_ime_action_label">完成</string>
+    
+      <string name="chat_send_photo">发送图片</string>
+      <string name="chat_send">发送</string>
+      <string name="press_again_backrun">再按一次返回桌面</string>
+      
+      <!-- 上拉下拉 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">释放立即刷新</string>
+    <string name="xlistview_header_hint_loading">正在刷新...</string>
+    <string name="xlistview_header_last_time">上次更新：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    
+    
+   
+
+</resources>
